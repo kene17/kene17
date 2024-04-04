@@ -1,8 +1,8 @@
-- 👋 Hi, I’m keney
+- 👋 Hi, I’m Kene
 - 👀 I’m interested in React, Nodejs, java, redux, sql and mongodb
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Full-Stack applications or mobile devlopment 
-- 📫 How to reach me linkedln (https://www.linkedin.com/in/kene-ojukwu-70a51a187/)
+- 💞️ I’m looking to collaborate on Full-Stack applications or mobile development 
+- 📫 How to reach me LinkedIn (https://www.linkedin.com/in/keneojukwu)
 
 <!---
 kene17/kene17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
