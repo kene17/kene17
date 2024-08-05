@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kene
-- 👀 I’m interested in React, Nodejs, java, redux, sql and mongodb
+- 👀 I’m interested in React, Nodejs, Python, java, Next.js, redux, sql and mongodb
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Full-Stack applications or mobile development 
 - 📫 How to reach me LinkedIn (https://www.linkedin.com/in/keneojukwu)
